@@ -1,2 +1,3 @@
 Content of file1
 Other content of file1
+Next content of file1
